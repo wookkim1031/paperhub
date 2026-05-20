@@ -8,6 +8,13 @@ Papers on robot learning, motion planning, manipulation, and locomotion.
 
 ## Papers
 
+| Title | Authors | Year |
+|-------|---------|------|
+| [Learning Dexterous In-Hand Manipulation](#learning-dexterous-in-hand-manipulation) | OpenAI, Andrychowicz et al. | 2019 |
+| [RT-2: Vision-Language-Action Models](#rt-2-vision-language-action-models) | Brohan et al. | 2023 |
+
+---
+
 ### [Learning Dexterous In-Hand Manipulation](https://arxiv.org/abs/1808.00177)
 **Authors:** OpenAI, Andrychowicz et al. · **Year:** 2019
 

@@ -8,6 +8,13 @@ Papers introducing benchmark datasets, data collection pipelines, and evaluation
 
 ## Papers
 
+| Title | Authors | Year |
+|-------|---------|------|
+| [Open X-Embodiment](#open-x-embodiment-robotic-learning-datasets-and-rt-x-models) | Open X-Embodiment Collaboration | 2023 |
+| [D4RL: Datasets for Deep Data-Driven RL](#d4rl-datasets-for-deep-data-driven-reinforcement-learning) | Fu et al. | 2020 |
+
+---
+
 ### [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864)
 **Authors:** Open X-Embodiment Collaboration · **Year:** 2023
 

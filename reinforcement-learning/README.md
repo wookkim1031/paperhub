@@ -8,6 +8,14 @@ Papers on policy optimization, model-based RL, exploration, and multi-agent syst
 
 ## Papers
 
+| Title | Authors | Year |
+|-------|---------|------|
+| [Proximal Policy Optimization Algorithms](#proximal-policy-optimization-algorithms) | Schulman et al. | 2017 |
+| [Soft Actor-Critic](#soft-actor-critic-off-policy-maximum-entropy-deep-rl) | Haarnoja et al. | 2018 |
+| [Decision Transformer](#decision-transformer-reinforcement-learning-via-sequence-modeling) | Chen et al. | 2021 |
+
+---
+
 ### [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 **Authors:** Schulman et al. (OpenAI) · **Year:** 2017
 
